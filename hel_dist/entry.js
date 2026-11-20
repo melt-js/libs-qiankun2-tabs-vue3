@@ -1,3 +1,1 @@
-(function (root) {
-  root["libs-qiankun2-tabs-vue3"] = (root.HelLibProxy || root.helLibProxy).exposeLib("libs-qiankun2-tabs-vue3");
-})(globalThis);
+(function(i){i["libs-qiankun2-tabs-vue3"]=(i.HelLibProxy||i.helLibProxy).exposeLib("libs-qiankun2-tabs-vue3")})(globalThis);
