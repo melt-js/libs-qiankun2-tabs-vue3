@@ -6,7 +6,7 @@
     "online_version": "2026.11.24-1",
     "build_version": "2026.11.24-1",
     "platform": "unpkg",
-    "create_at": "2026-11-26T04:19:47.343Z"
+    "create_at": "2026-11-26T05:38:54.960Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -23,7 +23,7 @@
         "/libs-qiankun2-tabs-vue3/hel_dist/assets/index-YInQTLbb.css"
       ],
       "chunkJsSrcList": [
-        "/libs-qiankun2-tabs-vue3/hel_dist/assets/index-COLjqZB4.js"
+        "/libs-qiankun2-tabs-vue3/hel_dist/assets/index-ntuK-8zR.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [],
@@ -34,7 +34,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-qiankun2-tabs-vue3/hel_dist/assets/index-COLjqZB4.js",
+            "src": "/libs-qiankun2-tabs-vue3/hel_dist/assets/index-ntuK-8zR.js",
             "type": "module",
             "crossorigin": ""
           }
@@ -56,8 +56,8 @@
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-qiankun2-tabs-vue3/hel_dist/assets/index-COLjqZB4.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-qiankun2-tabs-vue3/hel_dist/assets/index-YInQTLbb.css\">\n<meta charset=\"utf-8\"><title>libs-qiankun2-tabs-vue3</title></html>\n",
-    "create_at": "2026-11-26T04:19:47.343Z",
+    "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-qiankun2-tabs-vue3/hel_dist/assets/index-ntuK-8zR.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-qiankun2-tabs-vue3/hel_dist/assets/index-YInQTLbb.css\">\n<meta charset=\"utf-8\"><title>libs-qiankun2-tabs-vue3</title></html>\n",
+    "create_at": "2026-11-26T05:38:54.960Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
